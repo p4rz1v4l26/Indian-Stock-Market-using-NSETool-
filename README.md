@@ -1,1 +1,3 @@
 # Indian-Stock-Market-using-NSETool-
+
+will add soon....
