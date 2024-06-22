@@ -1,3 +1,3 @@
-# NSE-Data
+# Stock_market-Data
 
 will add soon....
