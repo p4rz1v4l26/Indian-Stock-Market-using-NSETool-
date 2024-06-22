@@ -1,3 +1,3 @@
-# Indian-Stock-Market-using-NSETool-
+# NSE-Data
 
 will add soon....
